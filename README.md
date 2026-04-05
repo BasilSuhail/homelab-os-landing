@@ -2,7 +2,7 @@
 
 > One dashboard. One login. Zero cloud dependency. Encryption-first homelab OS.
 
-**Live preview:** [View the landing page →](https://basilsuhail.github.io/homelab-os-landing)
+**Live preview:** [View the landing page →](https://basilsuhail.github.io/ProjectS-HomeForge/)
 
 ----
 
