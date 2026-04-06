@@ -1,4 +1,4 @@
-# Homelab Operating System
+# Homelab Setup
 
 > One dashboard. One login. Zero cloud dependency. Encryption-first homelab OS.
 
