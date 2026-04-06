@@ -126,7 +126,7 @@ We are looking for early testers who run a homelab and want to try the pre‑alp
 ## Team
 
 - **Basil Suhail** – [LinkedIn](https://linkedin.com/in/basilsuhail) | [GitHub](https://github.com/BasilSuhail)
-- **Saad Shafique** – [GitHub](https://github.com/saadsh15)
+- **Saad Shafique** – [LinkedIn](https://www.linkedin.com/in/saad-shafique-60115934b/) | [GitHub](https://github.com/saadsh15)
 
 ---
 
