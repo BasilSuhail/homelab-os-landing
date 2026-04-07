@@ -1,4 +1,10 @@
 <p align="center">
+  <img src="https://img.shields.io/badge/Status-Pre--alpha-orange?style=for-the-badge" alt="Status: Pre-alpha" />
+  <img src="https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker" alt="Docker Compose" />
+  <img src="https://img.shields.io/badge/Encryption-First-22c55e?style=for-the-badge" alt="Encryption First" />
+</p>
+
+<p align="center">
   <h1 align="center">HomeForge</h1>
   <p align="center"><strong>Your personal, private, self-hosted digital hub.</strong></p>
   <p align="center">One dashboard · One login · Zero cloud dependency</p>
