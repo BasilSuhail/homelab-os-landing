@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+  <strong>Live preview:</strong> <a href="https://basilsuhail.github.io/ProjectS-HomeForge/">View the dashboard →</a>
+</p>
+
+<p align="center">
   <img src="screenshot.png" alt="HomeForge Dashboard" width="100%" />
 </p>
 
