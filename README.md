@@ -55,6 +55,8 @@ Install once. Get a private, encrypted, modular platform that runs your digital 
 | 📝 Version control | Gitea |
 | 🌐 Reverse proxy & SSL | Nginx |
 
+…and much more coming.
+
 ---
 
 ## Architecture at a Glance
